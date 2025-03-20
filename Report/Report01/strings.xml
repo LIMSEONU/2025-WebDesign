@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="message">Hello World!</string>
+    <string name="txt">시청한 영화에 대한 \n여러분의 평가를 기대합니다</string>
+    <string name="submit">제출 하기</string>
+</resources>
