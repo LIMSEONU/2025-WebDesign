@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">randomNumberEx</string>
+    <string name="random">난수:</string>
+    <string name="create">랜덤 생성</string>
+</resources>

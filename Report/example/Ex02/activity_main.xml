@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--LinearLayout을 xmlns를 통해 가져오기 위해서 xmlns를 사용한다 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!--XML 주석처리는 코드내가 아닌 밖에 작성해야 가능-->
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btn1" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btn2" />
+
+</LinearLayout>
+    <!--android:id를 사용하는 이유는 자바에서 사용하기 위함-->

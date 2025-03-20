@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">viewEx</string>
+    <string name="btn1">첫번째 버튼</string>
+    <string name="btn2">두번째 버튼</string>
+</resources>
