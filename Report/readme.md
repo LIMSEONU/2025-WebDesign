@@ -1,3 +1,4 @@
 - Report01 : 영화리뷰 별칸 채우기
 - Report02 : 계산기
 - Report03 : 주사위
+- Report04 : Guess
