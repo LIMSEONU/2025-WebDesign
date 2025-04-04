@@ -2,3 +2,5 @@
 - Report02 : 계산기
 - Report03 : 주사위
 - Report04 : Guess
+- Report05 : Android RandomBackgroud
+- Report06 : 카운터: 증가 감소
