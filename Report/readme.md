@@ -4,3 +4,5 @@
 - Report04 : Guess
 - Report05 : Android RandomBackgroud
 - Report06 : 카운터: 증가 감소
+- Report07 : 이미지 위 텍스트
+- Report08 : GridLayout 3x3 Ex
