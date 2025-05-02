@@ -34,7 +34,7 @@
 ---
 
 ## 📂 파일 구조
-
+```
 com.example.recyclerview/
 │
 ├── MainActivity.java // ViewPager2 초기화 및 작품 목록 연결
@@ -48,6 +48,6 @@ com.example.recyclerview/
 │ ├── art1.jpg
 │ ├── art2.jpg
 │ └── art3.jpg
-
+```
 
 
