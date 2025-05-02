@@ -1,5 +1,6 @@
 #### LayoutEx5 => 다섯가지의 레이아웃(로그인화면) 예시
 #### CalculatorAI => AI를 이용한 계산기 만들기
+#### Viewpage2 => 갤러리 예시
 - Report01 : 영화리뷰 별칸 채우기
 - Report02 : 계산기
 - Report03 : 주사위
