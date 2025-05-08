@@ -1,11 +1,20 @@
-#### LayoutEx5 => 다섯가지의 레이아웃(로그인화면) 예시
-#### CalculatorAI => AI를 이용한 계산기 만들기
-#### Viewpage2 => 갤러리 예시
-- Report01 : 영화리뷰 별칸 채우기
-- Report02 : 계산기
-- Report03 : 주사위
-- Report04 : Guess
-- Report05 : Android RandomBackgroud
-- Report06 : 카운터: 증가 감소
-- Report07 : 이미지 위 텍스트
-- Report08 : GridLayout 3x3 Ex
+---
+
+## 📂 과제 제출 구성
+
+| 파일명         | 설명                                      |
+|----------------|-------------------------------------------|
+| `LayoutEx5`    | 5가지 레이아웃을 활용한 로그인 화면 예시 |
+| `CalculatorAI` | AI 기능을 포함한 계산기 앱               |
+| `Viewpage2`    | 갤러리 형식의 이미지 뷰어 예시           |
+| `Report01`     | 영화 리뷰 입력 화면 (별점 칸 포함)       |
+| `Report02`     | 일반 계산기 앱                           |
+| `Report03`     | 주사위 애니메이션 구현                   |
+| `Report04`     | 숫자 맞추기 게임 (Guess)                 |
+| `Report05`     | 배경색이 랜덤으로 바뀌는 앱              |
+| `Report06`     | 카운터 앱 (증가/감소 버튼 포함)          |
+| `Report07`     | 이미지 위에 텍스트를 겹쳐 표시하는 예시  |
+| `Report08`     | GridLayout 3x3 구성 예시                 |
+| `SurveyApp`    | 디지털 디톡스 설문조사 앱 (이 문서 해당) |
+
+---
