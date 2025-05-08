@@ -121,3 +121,15 @@ chart.invalidate();
 📌 위 코드를 통해 설문 점수별로 그래프가 그려지고, 평균 점수에 따른 메시지를 출력합니다.
 
 ---
+
+---
+
+## 🛠 제작과정 요약
+
+1. **MainActivity**: 설문 시작 버튼으로 QuestionActivity로 이동
+2. **QuestionActivity**: 10개의 설문 항목을 RadioGroup으로 순차 표시
+3. **SurveyManager**: 전역 배열로 사용자 응답 저장
+4. **ResultActivity**: 평균 점수 및 분석 문구 출력 + 그래프 시각화
+5. **MPAndroidChart**: BarChart 그래프를 통해 시각적으로 설문 결과 표현
+
+---
