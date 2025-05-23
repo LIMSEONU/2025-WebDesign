@@ -85,6 +85,6 @@ arti-fy/
 
 ## 🔗 참고 링크
 
-- [🎨 Figma 디자인 바로가기]([https://www.figma.com/your-project-url](https://www.figma.com/design/7Kopfdzo9xZju8a0D6fDNk/%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%9B%B9%EA%B0%9C%EB%B0%9C-%EB%94%94%EC%9E%90%EC%9D%B8?node-id=0-1&p=f&t=TgTzOdRZgVdRhY6s-0))
+- 👉 [Figma 전체 디자인 보기](https://www.figma.com/design/7Kopfdzo9xZju8a0D6fDNk/%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%9B%B9%EA%B0%9C%EB%B0%9C-%EB%94%94%EC%9E%90%EC%9D%B8?node-id=0-1&p=f&t=TgTzOdRZgVdRhY6s)
 - 개발자: 임선우  
 - 프로젝트 유형: 대학 앱 개발 포트폴리오 / 문화 정보 탐색 앱
