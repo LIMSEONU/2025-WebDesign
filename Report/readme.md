@@ -26,4 +26,4 @@
 | `Viewpage2`    | 갤러리 형식의 이미지 뷰어 예시           |
 | `SurveyApp`    | 디지털 디톡스 설문조사 앱                |
 | `Simplememo`    | 간단한 메모장 앱 (to-do)                |
-| `TodoListApp`    | 간단한 알림 앱 (to-do                |
+| `TodoList`    | 간단한 알림 앱 (to-do                |
